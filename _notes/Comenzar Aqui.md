@@ -1,7 +1,7 @@
 ---
 title: Comenzar aqui
 season: summer
-tags: Theme
+tags: intro
 toc: true
 comments: true
 ---

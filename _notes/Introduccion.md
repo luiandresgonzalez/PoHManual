@@ -1,7 +1,7 @@
 ---
 title: Introducción
 season: summer
-tags: Theme
+tags: intro
 toc: true
 comments: true
 ---
