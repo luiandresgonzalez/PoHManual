@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes.md",
+            "file": "_notes/Introduccion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes.md",
+                "file": "_notes/Introduccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "07d6fc33c09e8c37",
   "lastOpenFiles": [
-    "notes.md",
     "_notes/Introduccion.md",
     "_notes/Comenzar Aqui.md",
     "_notes/How to use the special features.md",
+    "notes.md",
     "README.md",
     "index.md",
     "_notes/How-to-setup-this-site.md",
