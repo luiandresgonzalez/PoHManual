@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Introducción.md",
+            "file": "_notes/Comenzar Aqui.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Introducción.md",
+                "file": "_notes/Comenzar Aqui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "07d6fc33c09e8c37",
   "lastOpenFiles": [
-    "_notes/Introducción.md",
     "_notes/Comenzar Aqui.md",
+    "_notes/Introducción.md",
     "_notes/how-markdown-is-rendered.md",
     "_notes/How to use the special features.md",
     "notes.md",
